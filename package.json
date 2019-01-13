@@ -2,7 +2,7 @@
   "name": "my-ui",
   "version": "0.0.1",
   "description": "xiajun ui",
-  "module": "dist/build.js",
+  "module": "dist/my-ui.js",
   "directories": {
     "dist": "dist"
   },
@@ -37,7 +37,7 @@
     "webpack": "^2.6.1",
     "webpack-dev-server": "^2.4.5"
   },
-  "author": "wmui",
+  "author": "xiajun",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/xiajun123456/my-ui.git"

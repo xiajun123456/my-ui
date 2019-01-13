@@ -7,7 +7,7 @@ module.exports = {
   output: {
     path: path.resolve(__dirname, './dist'),
     publicPath: '/dist/',
-    filename: 'build.js',
+    filename: 'my-ui.js',
     library: 'myUi',
     libraryTarget: 'umd',
     umdNamedDefine: true 
