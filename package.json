@@ -2,7 +2,7 @@
   "name": "my-ui",
   "version": "0.0.1",
   "description": "xiajun ui",
-  "main": "dist/build.js",
+  "module": "dist/build.js",
   "directories": {
     "dist": "dist"
   },
@@ -12,10 +12,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/vuetop/top-gitment.git"
+    "url": "https://github.com/xiajun123456/my-ui.git"
   },
   "keywords": [
-    "top-gitment",
+    "my-ui",
     "comment",
     "gitment"
   ],
@@ -40,7 +40,7 @@
   "author": "wmui",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/vuetop/top-gitment/issues"
+    "url": "https://github.com/xiajun123456/my-ui.git"
   },
-  "homepage": "https://github.com/vuetop/top-gitment#readme"
+  "homepage": "https://github.com/xiajun123456/my-ui.git"
 }
