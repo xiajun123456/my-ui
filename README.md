@@ -14,5 +14,5 @@
 
 ## mock ##
 
-   //执行命令
-   npm run mock
+        //执行命令
+        npm run mock
