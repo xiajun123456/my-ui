@@ -16,3 +16,27 @@
 
         //执行命令
         npm run mock
+## 文件结构
+
+>src  
+>>assets  
+>>>css  
+>>>font  
+>>>imgs  
+>>>js  
+
+>>components（重要）  
+>>>base（基本组件）  
+>>>common（公共组件）  
+>>>common-business（公共业务模块）    
+>>>pre-business（预结算业务模块）  
+>>>prepaidFee-business（预收款业务模块）  
+>>>system（项目管理及图谱模块）    
+
+>>router(路由)  
+>>store（vuex） 
+
+>static  
+>>const（常量存放目录主要server.js中存放后台地址）  
+>>json（存放json配置文件）  
+>>lib（存放插件源文件）
